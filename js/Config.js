@@ -1,0 +1,1 @@
+var urlRestaurants = "./php/RestaurantReviews.php";
